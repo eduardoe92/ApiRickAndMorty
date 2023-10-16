@@ -2,3 +2,5 @@
 
 Diseñado con React. 
 
+Editor de codigos: Visual Studio Code (VSC)
+
