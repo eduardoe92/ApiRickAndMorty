@@ -1,3 +1,4 @@
+---
 # API Rick and Morty
 
 Bienvenido a la API de Rick and Morty, un proyecto que te permite explorar datos sobre los personajes, episodios y ubicaciones del universo de "Rick and Morty".
@@ -35,3 +36,5 @@ Welcome to the Rick and Morty API, a project that allows you to explore data abo
 - **CSS:** Used for styling and designing the user interface.
   
 Explore the Rick and Morty universe!
+
+---
