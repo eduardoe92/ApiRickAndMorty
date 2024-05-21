@@ -1,4 +1,3 @@
----
 # API Rick and Morty
 
 Bienvenido a la API de Rick and Morty, un proyecto que te permite explorar datos sobre los personajes, episodios y ubicaciones del universo de "Rick and Morty".
