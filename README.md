@@ -2,6 +2,12 @@
 
 Bienvenido a la API de Rick and Morty, un proyecto que te permite explorar datos sobre los personajes, episodios y ubicaciones del universo de "Rick and Morty".
 
+## Sitio Web
+
+Puedes acceder presionando el siguiente enlace:
+
+<a href="https://rickandmorty-seven-virid.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
+
 ## Características
 
 - **Exploración de Datos:** Permite a los usuarios visualizar información detallada sobre personajes, episodios y ubicaciones.
@@ -21,6 +27,12 @@ Bienvenido a la API de Rick and Morty, un proyecto que te permite explorar datos
 # Rick and Morty API
 
 Welcome to the Rick and Morty API, a project that allows you to explore data about the characters, episodes and locations of the "Rick and Morty" universe.
+
+## Website
+
+You can access it by clicking the following link:
+
+<a href="https://rickandmorty-seven-virid.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="40" height="40"/></a>
 
 ## Features
 
